@@ -1,0 +1,12 @@
+<Título:População residente>
+<Escala:Palmas>
+<Gráficos:piram_pop_palmas.png:Pirâmide populacional de Palmas>
+Com 48.241 habitantes o município de Palmas apresenta uma população jovem com aproximadamente 63% da população possui até 40 anos de idade. Aproximadamente 31% da população possui entre 40 e 70 anos e aproximadamente 6% com mais de 70 anos. No total 48,9% são homens e 51,1% mulheres.
+
+<Mapas:pop_residente_2022_Palmas.png:População residente em Palmas>
+91,58% da população de Palmas, 44.180 habitantes, vivem no perímetro urbano. Dos 4.061 habitantes (8,42% do total de habitantes) que vivem na parte rural, fora do perímetro urbano, 877 ocupa a porção oeste do município, mais distante do perímetro urbano, e 2.119, na porção leste do município, mais próxima do perímetro urbano. Esse envolvem os setores censitários mias populosos fora do perímetro urbano, sendo que os da porção leste tem maior representatividade, por estarem mais próximos no perímetro urbano, mas também indicam possíveis eixos de crescimento da cidade.
+
+<Mapas:pop_residente_2012_PerUrb.png: População residente no perímetro urbano de Palmas>
+Dentro do perímetro urbano temos algumas áreas com maior concentração da população. O bairro centro do abriga aproximadamente 10,5% da população, porém não é o mais populoso, sendo esse o bairro Lagoão, com aproximadamente 18,5% da população. Junto com o bairro lagoão, os bairros Santa Cruz (3%), São José (7,7%), Alto da Glória (5,6%), Eldorado (4,5%) concentram, na porção Leste do perímetro urbano, 40% da população de Palmas, apontando uma região de crescimento do município. Além desses os bairros Divino (3,7%), Cascatinha (3,9%), Klubegi (3,7%), São Francisco (7,5%), Serrinha (2,2%) reúnem 21,3% da população apontando outra possível região de crescimento. Na porção norte, considerando os bairros Santuário (4,2%), Vale dos Lagos (0,1%), Aeroporto (3,7%), São Sebastião (2,3%) e Fortunato (0,2%) somam 12,1% da população com maior concentração nos bairros do Areoporto e São Sebastião apontando, com menos intensidade uma área de crescimento impulsionada por esses bairros. Além dessas grandes áreas temos o bairro Hípica (4,2%), Dissenha (1,2%) e Caldeiras (1,67%) que são bairros que não envolvem uma contniuidade de população nos setores censitários. 
+
+
