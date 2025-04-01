@@ -1,0 +1,37 @@
+<Título:População Residente por município>
+<Escala:Paraná>
+<Multi>
+<1>
+**Destaque: Adrianópolis**
+<Mapas:pop_residente_Adrianopolis_PR_IBGE_2022_land_a4.png:População nos municípios do Paraná, IBGE, 2022>
+A média populacional no estado do Paraná é de 28.682 habitantes, chegando a um mínimo de 1.323 em Alto Paraíso e um máximo de 1.773.718 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. **Adrianópolis é o 259º em quantidade de população residente com 6.256 habitantes.**
+<Gráficos:popresidentePR_Adrianopolis_mediaPR_IBGE_2022.jpg:População nos municípios do Paraná>
+Abaixo da média do estado a população do município representa 22% desse valor.
+<Gráficos:pop_comp_Adrianopolis_mediaPR_IBGE_2022.png:Comparação da população com a média do Paraná>
+</1>
+<2>
+**Destaque: Bocaiúva do Sul**
+<Mapas:pop_residente_Bocaiuva_PR_IBGE_2022_land_a4.png:População nos municípios do Paraná, IBGE, 2022>
+A média populacional no estado do Paraná é de 28.682 habitantes, chegando a um mínimo de 1.323 em Alto Paraíso e um máximo de 1.773.718 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. **Bocaiúva do Sul é o 151º em quantidade de população residente com 13.299 habitantes**
+<Gráficos:popresidentePR_Bocaiuva_mediaPR_IBGE_2022.jpg:População nos municípios do Paraná>
+Abaixo da média do estado a população do município representa 46% desse valor.
+<Gráficos:pop_comp_Bocaiuva_mediaPR_IBGE_2022.png:Comparação da população com a média do Paraná>
+</2>
+<3>
+**Destaque: Guaraqueçaba**
+<Mapas:pop_residente_Guaraquecaba_PR_IBGE_2022_land_a4.png:População nos municípios do Paraná, IBGE, 2022>
+A média populacional no estado do Paraná é de 28.682 habitantes, chegando a um mínimo de 1.323 em Alto Paraíso e um máximo de 1.773.718 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. **Guaraqueçaba é o 322º em quantidade de população residente com 7.430 habitantes.**
+<Gráficos:popresidentePR_Guaraquecaba_mediaPR_IBGE_2022.jpg:População nos municípios do Paraná>
+Abaixo da média do estado a população do município representa 26% desse valor.
+<Gráficos:pop_comp_Guaraquecaba_mediaPR_IBGE_2022.png:Comparação da população com a média do Paraná>
+</3>
+<4>
+**Destaque: Palmas**
+<Mapas:pop_residente_Palmas_PR_IBGE_2022_land_a4.png:População nos municípios do Paraná, IBGE, 2022>
+A média populacional no estado do Paraná é de 28.682 habitantes, chegando a um mínimo de 1.323 em Alto Paraíso e um máximo de 1.773.718 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. **Palmas é o 37º em quantidade de população residente com 48.247 habitantes.**
+<Gráficos:popresidentePR_Palmas_mediaPR_IBGE_2022.jpg:População nos municípios do Paraná>
+Acima da média do estado a população do município tem 68% acima desse valor.
+<Gráficos:pop_comp_Palmas_mediaPR_IBGE_2022.png:Comparação da população com a média do Paraná>
+</4>
+</Multi>
+

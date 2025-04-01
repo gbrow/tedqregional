@@ -1,0 +1,40 @@
+<Título:Densidade demográfica por município>
+<Escala:Paraná>
+<Multi>
+<1>
+**Recorte:Adrianópolis**
+<Mapas:dens_demog_PR_Adrianopolis_IBGE_2022.png:Densidade (habitantes por metro quadrado) nos municípios do Paraná>
+A média da densidade demográfica no estado do Paraná é de 69 habitantes por metro quadrado, chegando a um mínimo de 3 em Alto Paraíso e um máximo de 4.078 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. 
+<Gráficos:densidadepopPR_Adrianopolis_mediaPR_IBGE_2022.jpg:Densidade (habitantes por metro quadrado) nos municípios, média do Paraná e posição dos municípios do TED>
+Adrianópolis é o 397º município com aproximadamente 4 habitantes por metro quadrado, um dos menores do estado.
+<Gráficos:densid_demog_Adrianopolis_mediaPR_IBGE_2022.png:Densidade (habitantes por metro quadrado) em Adrianópolis e média do Paraná>
+A densidade demográfica dá indícios dos aspectos que vão influenciar as pressões sobre os territórios quilombolas, sendo maior pode indicar a possibilidade do avanço da cidade com o mercado imobiliário e, sendo menor pode indicar questões de dificuldade de acesso, de isolamento e aumento da fragilidade em relação outras formas de pressão como grilagem de terras e ameaças.
+</1>
+<2>
+**Recorte:Bocaiúva do Sul**
+<Mapas:dens_demog_PR_Bocaiuva_IBGE_2022.png:Densidade (habitantes por metro quadrado) nos municípios do Paraná>
+A média da densidade demográfica no estado do Paraná é de 69 habitantes por metro quadrado, chegando a um mínimo de 3 em Alto Paraíso e um máximo de 4.078 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. 
+<Gráficos:densidadepopPR_Bocaiuva_mediaPR_IBGE_2022.jpg:Densidade (habitantes por metro quadrado) nos municípios, média do Paraná e posição dos municípios do TED>
+Bocaiúva do Sul é o 303º município com aproximadamente 4 habitantes por metro quadrado, um dos menores do estado.
+<Gráficos:densid_demog_Bocaiuva_mediaPR_IBGE_2022.png:Densidade (habitantes por metro quadrado) em Bocaiúva do Sul e média do Paraná>
+A densidade demográfica dá indícios dos aspectos que vão influenciar as pressões sobre os territórios quilombolas, sendo maior pode indicar a possibilidade do avanço da cidade com o mercado imobiliário e, sendo menor pode indicar questões de dificuldade de acesso, de isolamento e aumento da fragilidade em relação outras formas de pressão como grilagem de terras e ameaças.
+</2>
+<3>
+**Recorte:Guaraqueçaba**
+<Mapas:dens_demog_PR_Guaraquecaba_IBGE_2022.png:Densidade (habitantes por metro quadrado) nos municípios do Paraná>
+A média da densidade demográfica no estado do Paraná é de 69 habitantes por metro quadrado, chegando a um mínimo de 3 em Alto Paraíso e um máximo de 4.078 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. 
+<Gráficos:densidadepopPR_Guaraquecaba_mediaPR_IBGE_2022.jpg:Densidade (habitantes por metro quadrado) nos municípios, média do Paraná e posição dos municípios do TED>
+Guaraqueçaba é o 398º município com aproximadamente 4 habitantes por metro quadrado, um dos menores do estado.
+<Gráficos:densid_demog_Bocaiuva_mediaPR_IBGE_2022.png:Densidade (habitantes por metro quadrado) em Guaraqueçaba e média do Paraná>
+A densidade demográfica dá indícios dos aspectos que vão influenciar as pressões sobre os territórios quilombolas, sendo maior pode indicar a possibilidade do avanço da cidade com o mercado imobiliário e, sendo menor pode indicar questões de dificuldade de acesso, de isolamento e aumento da fragilidade em relação outras formas de pressão como grilagem de terras e ameaças. No município, o aspecto ambiental é marcante com a delimitação e Unidades de Conservação que restringem o crescimento populacional, e favorecem o isolamento de comunidades tradicionais da região. 
+</3>
+<4>
+**Recorte:Palmas**
+<Mapas:dens_demog_PR_Palmas_IBGE_2022.png:Densidade (habitantes por metro quadrado) nos municípios do Paraná>
+A média da densidade demográfica no estado do Paraná é de 69 habitantes por metro quadrado, chegando a um mínimo de 3 em Alto Paraíso e um máximo de 4.078 em Curitiba. A capital junto com sua região metropolitana e outros municípios como Ponta Grossa, Cascavel, Londrina, Foz do Iguaçu concentram grande parte da população. 
+<Gráficos:densidadepopPR_Palmas_mediaPR_IBGE_2022.jpg:Densidade (habitantes por metro quadrado) nos municípios, média do Paraná e posição dos municípios do TED>
+Palmas é o 153º município com aproximadamente 4 habitantes por metro quadrado, um dos menores do estado.
+<Gráficos:densid_demog_Palmas_mediaPR_IBGE_2022.png:Densidade (habitantes por metro quadrado) em Palmas e média do Paraná>
+A densidade demográfica dá indícios dos aspectos que vão influenciar as pressões sobre os territórios quilombolas, sendo maior pode indicar a possibilidade do avanço da cidade com o mercado imobiliário e, sendo menor pode indicar questões de dificuldade de acesso, de isolamento e aumento da fragilidade em relação outras formas de pressão como grilagem de terras e ameaças. 
+</4>
+</Multi>
