@@ -5,12 +5,15 @@ document.addEventListener("DOMContentLoaded", function() {
     const subTemaSelect = document.getElementById("subTema");
     const carregarBtn = document.getElementById("carregar");
     const conteudoDiv = document.getElementById("conteudo");
+    const BASE_URL = window.location.href.includes('github.io') 
+    ? '/' + window.location.pathname.split('/')[1] + '/' 
+    : '/';
 
     // Dados carregados do CSV
     let dados = [];
 
     // Carrega o CSV
-    fetch("dados/tematicas.csv")
+    fetch(`${BASE_URL}dados/tematicas.csv`)
         .then(response => {
             if (!response.ok) throw new Error("Erro ao carregar CSV");
             return response.text();
@@ -108,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Exibe o conteúdo do layout
     function exibirConteudo(item) {
-        const caminhoLayout = `conteudo/${item.RECORTE}/Layout/${item.LAYOUT}`;
+        const caminhoLayout = `${BASE_URL}conteudo/${item.RECORTE}/Layout/${item.LAYOUT}`;
         console.log(caminhoLayout)
         fetch(`${caminhoLayout}?v=${Date.now()}`)  // Adiciona timestamp como parâmetro
         .then(response => {
@@ -176,13 +179,13 @@ document.addEventListener("DOMContentLoaded", function() {
         conteudo = conteudo
             .replace(/<Mapas:(.*?):(.*?)>/g, (_, arquivo, legenda) => `
                 <figure class="elemento-visual mapa">
-                    <img src="conteudo/${recorte}/Mapas/${arquivo}?v=${Date.now()}" alt="${legenda}">
+                    <img src="${BASE_URL}conteudo/${recorte}/Mapas/${arquivo}?v=${Date.now()}" alt="${legenda}">
                     <figcaption>${legenda}</figcaption>
                 </figure>
             `)
             .replace(/<Gráficos:(.*?):(.*?)>/g, (_, arquivo, legenda) => `
                 <figure class="elemento-visual grafico">
-                    <img src="conteudo/${recorte}/Graficos/${arquivo}?v=${Date.now()}" alt="${legenda}">
+                    <img src="${BASE_URL}conteudo/${recorte}/Graficos/${arquivo}?v=${Date.now()}" alt="${legenda}">
                     <figcaption>${legenda}</figcaption>
                 </figure>
             `);
@@ -208,13 +211,13 @@ document.addEventListener("DOMContentLoaded", function() {
     return conteudo
         .replace(/<Mapas:(.*?):(.*?)>/g, (_, arquivo, legenda) => `
             <figure class="slide-element mapa">
-                <img src="conteudo/${recorte}/Mapas/${arquivo}" alt="${legenda}">
+                <img src="${BASE_URL}conteudo/${recorte}/Mapas/${arquivo}" alt="${legenda}">
                 <figcaption>${legenda}</figcaption>
             </figure>
         `)
         .replace(/<Gráficos:(.*?):(.*?)>/g, (_, arquivo, legenda) => `
             <figure class="slide-element grafico">
-                <img src="conteudo/${recorte}/Graficos/${arquivo}" alt="${legenda}">
+                <img src="${BASE_URL}conteudo/${recorte}/Graficos/${arquivo}" alt="${legenda}">
                 <figcaption>${legenda}</figcaption>
             </figure>
         `);
