@@ -1,48 +1,4 @@
-// auth.js - Verificação simplificada
-const ARQUIVO_TESTE = "https://ufprbr0.sharepoint.com/:t:/r/sites/TEDQuilombos/Documentos%20Compartilhados/General/BANCO%20DE%20INFORMA%C3%87%C3%95ES/TERRITORIAL/arquivo_secreto.txt?csf=1&web=1&e=ipM7dL";
-
-async function verificarAcesso() {
-    try {
-        const response = await fetch(ARQUIVO_TESTE, {
-            method: 'HEAD',
-            credentials: 'include',
-            mode: 'cors'
-        });
-        
-        // Status 200-299 indica acesso autorizado
-        return response.ok; 
-    } catch (error) {
-        return false;
-    }
-}
-
-document.addEventListener("DOMContentLoaded", async () => {
-    const temAcesso = await verificarAcesso();
-    
-    if (temAcesso) {
-        // Carrega aplicação normal
-        const dados = await carregarDadosLocais();
-        inicializarAplicacao(dados);
-    } else {
-        // Exibe mensagem de bloqueio
-        document.body.innerHTML = `
-            <div class="blocked-container">
-                <h2>Acesso Negado</h2>
-                <p>Você precisa:</p>
-                <ol>
-                    <li>Estar logado na rede corporativa</li>
-                    <li>Ter acesso ao SharePoint da equipe</li>
-                </ol>
-                <button onclick="window.location.reload()">Tentar Novamente</button>
-            </div>
-        `;
-    }
-});
-
-//document.addEventListener("DOMContentLoaded", function() {
-    
-function carregarDadosLocais() {
-    // Dados carregados do CSV
+document.addEventListener("DOMContentLoaded", function() {
     // Elementos do DOM
     const recorteSelect = document.getElementById("recorte");
     const temaSelect = document.getElementById("tema");
@@ -53,6 +9,7 @@ function carregarDadosLocais() {
     ? '/' + window.location.pathname.split('/')[1] + '/' 
     : '/';
 
+    // Dados carregados do CSV
     let dados = [];
 
     // Carrega o CSV
@@ -69,7 +26,7 @@ function carregarDadosLocais() {
             console.error("Erro:", error);
             conteudoDiv.innerHTML = `<p class="erro">Erro ao carregar dados. Verifique o console.</p>`;
         });
-}
+
     // Parse do CSV (suporta vírgulas internas)
     function parseCSV(csvText) {
         const linhas = csvText.split("\n").filter(linha => linha.trim() !== "");
@@ -338,4 +295,4 @@ function carregarDadosLocais() {
         updateSlider();
     });
     }
-//});
+});
