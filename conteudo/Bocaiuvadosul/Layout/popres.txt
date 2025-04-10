@@ -1,0 +1,7 @@
+<Título:População residente>
+<Escala:Bocaiúva do Sul>
+<Gráficos:pir_pop_Bocaiuva_ibge.png:Pirâmide populacional de Adrianópolis. Fonte - Elaborado pelos autores a partir dos dados do IBGE, 2022.>
+Com 13.299 habitantes o município apresenta uma distribuição regular da população de acordo com as faixas etárias. Apresenta pequenas irregularidades no grupo dos homens nas idades de 10 a 14 anos, 30 a 24 anos e 65 a 69 anos com diminuição brusca na transição. No grupos de mulheres  o mesmo ocorre entre 0 e 4 anos, 30 a 39 anos, 40 a 49 anos e 50 a 55 anos.
+<Mapas:popres_Bocaiuva_ibge_2022.png:População residente por setor censitário. Fonte: Elaborado pelos autores a partir dos dados do IBGE, 2022>
+O município tem grande concentração a população na porção oeste, tendo aproximadamente 48% da população no núcleo urbano. Tal aspecto se apresenta diante das relações com o município de Curitiba, o que implica no isolamento da população residente na porção leste, na divisa com o estado de São Paulo, com Barra do Turvo, mesmo assim, ainda distante do núcleo urbano desse. Se considerarmos os setores censitários com mais de 320 habitantes que se concentram na porção leste de Bocaiúva incluem-se nesses aproximadamente 91% da população.
+

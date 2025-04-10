@@ -2,3 +2,12 @@ COD,NIVEL,RECORTE,TEMA,SUB_TEMA,Mapas,Gráficos,LAYOUT
 1,estadual,Parana,população,densidade demográfica,dens_demog_PR_sem_munted_IBGE_2022_land_a4.png,"densid_demog_munTED_mediaPR_IBGE_2022.jpg,  densid_demog_munTED_mediaPR_IBGE_2022.jpg",densid_demo.txt
 2,estadual,Parana,população,população residente,pop_residente_PR_munTED_IBGE_2022_land_a4.png,"pop_mun_munTED_IBGER_2022.jpg, pop_comp_munTED_mediaPR_IBGE_2022.png  ",populacao.txt
 3,municipal,Palmas,população,população residente,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,pop_censo22_palmas.txt
+4,estadual,Parana,usodosolo,geral,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,usodosolo.txt
+5,estadual,Parana,ambiental,floresta,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,floresta.txt
+6,municipal,Guaraquecaba,população,população residente,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres.txt
+7,municipal,Bocaiuvadosul,população,população residente,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres.txt
+8,municipal,Adrianopolis,população,população residente,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres.txt
+8,municipal,Adrianopolis,população,população residente e raça,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres_raca.txt
+9,municipal,Guaraquecaba,população,população residente e raça,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres_raca.txt
+10,municipal,Bocaiuvadosul,população,população residente e raça,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres_raca.txt
+11,municipal,Palmas,população,população residente e raça,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres_raca.txt

@@ -1,0 +1,7 @@
+<Título:População residente>
+<Escala:Guaraquecaba>
+<Gráficos:piram_pop_Guaraquecaba.png:Pirâmide populacional de Guaraqueçaba. Fonte - Elaborado pelos autores a partir dos dados do IBGE, 2022.>
+Com 7.430 habitantes o município apresenta uma distribuição irregular da população de acordo com as faixas etárias. Essa irregularidade se estende desde os 5 anos de idade até os 39 anos. Indica-se uma queda da população infantil dos 5 a 9 anos de idade e também da juventude dos 20 aos 24 anos. As diferenças ocorrem tanto com homens quanto mulheres porém é mais irregular com os primeiros, identificando-se assim possíveis grupos vulneráveis no município.
+<Mapas:popres_Guaraquecaba_ibge_2022.png:População residente por setor censitário. Fonte: Elaborado pelos autores a partir dos dados do IBGE, 2022>
+Enquanto 22% da população se concentra no perímetro urbano do município, aproximadamente 23% se concentra ao longo da estrada de acesso viário ao município, aproximadamente 15% da população se distribui nos acessos a áreas mais isoladas e aproximadamente 21% nas ilhas, caracterizando uma população bem espalhada, com comunidades cujo acesso se dá exclusivamente por barcos, umas das principais formas de locomoção para o município. Ainda se destacam as dificuldades que podem ter no acesso à infraestruturas e serviços urbanas devido à dificuldade de acesso e distância das comunidades.
+
