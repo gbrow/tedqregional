@@ -1,0 +1,4 @@
+<Título:Renda domiciliar mensal>
+<Escala:Adrianópolis>
+(análise da distribuição da renda e da raça autodeclarada, normalmente lugares com maior proporção de brancos apresentam faixas salariais mais altas)
+<Mapas:popres_prop_raca_renda_Adrianopolis_ibge_2010.png:Renda total domiciliar mensal e raça autodeclarada. Fonte: Elaborado pelos autores a partir dos dados do IBGE, 2010>

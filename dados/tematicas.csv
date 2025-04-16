@@ -11,3 +11,15 @@ COD,NIVEL,RECORTE,TEMA,SUB_TEMA,Mapas,Gráficos,LAYOUT
 9,municipal,Guaraquecaba,população,população residente e raça,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres_raca.txt
 10,municipal,Bocaiuvadosul,população,população residente e raça,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres_raca.txt
 11,municipal,Palmas,população,população residente e raça,"pop_residente_2010_PerUrb.png, pop_residente_2022_Palmas.png",piram_pop_palmas.png,popres_raca.txt
+12,municipal,Palmas,população,renda,rend_mes_dom_total_Palmas_2010.png;renda_Palmas_ibge2010.png; prop_rend_mes_dom_2010_PerUrb.png,nenhum,pop_renda.txt
+13,municipal,Guaraquecaba,população,renda,rend_mes_dom_total_Guaraquecaba_2010.png;renda_Guaraquecaba_ibge2010.png;prop_rend_mes_dom_Guaraquecaba_2010.png,nenhum,pop_renda.txt
+14,municipal,Bocaiuvadosul,população,renda,rend_mes_dom_total_Bocaiuva_2010.png;renda_Bocaiuva_ibge2010.png;prop_rend_mes_dom_Bocaiuva_2010.png,nenhum,pop_renda.txt
+15,municipal,Adrianopolis,população,renda,rend_mes_dom_total_Adrianopolis_2010.png;renda_Adrianopolis_ibge2010.png;prop_rend_mes_dom_Adrianopolis_2010.png,nenhum,pop_renda.txt
+16,municipal,Palmas,população,renda e raça,rend_mes_dom_total_Palmas_2010.png;renda_Palmas_ibge2010.png; prop_rend_mes_dom_2010_PerUrb.png,nenhum,pop_renda_raca.txt
+17,municipal,Guaraquecaba,população,renda e raça,rend_mes_dom_total_Guaraquecaba_2010.png;renda_Guaraquecaba_ibge2010.png;prop_rend_mes_dom_Guaraquecaba_2010.png,nenhum,pop_renda_raca.txt
+18,municipal,Bocaiuvadosul,população,renda e raça,rend_mes_dom_total_Bocaiuva_2010.png;renda_Bocaiuva_ibge2010.png;prop_rend_mes_dom_Bocaiuva_2010.png,nenhum,pop_renda_raca.txt
+19,municipal,Adrianopolis,população,renda e raça,rend_mes_dom_total_Adrianopolis_2010.png;renda_Adrianopolis_ibge2010.png;prop_rend_mes_dom_Adrianopolis_2010.png,nenhum,pop_renda_raca.txt
+20,municipal,Bocaiuvadosul,urbanização,área urbanizada,urbanizacao_Bocaiuva_mapbiomas_2023.png,nenhum,area_urbanizada.txt
+21,municipal,Adrianopolis,urbanização,área urbanizada,urbanizacao_Adrianopolis_mapbiomas_2023.png,nenhum,area_urbanizada.txt
+22,municipal,Palmas,urbanização,área urbanizada,urbanizacao_Palmas_mapbiomas_2023.png,nenhum,area_urbanizada.txt
+23,municipal,Guaraquecaba,urbanização,área urbanizada,urbanizacao_Guaraquecaba_mapbiomas_2023.png,nenhum,area_urbanizada.txt
