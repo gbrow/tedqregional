@@ -3,3 +3,4 @@
 (análise do crescimento da área urbana, eixos de crescimento, pressão imobiliária)
 <Mapas:urbanizacao_Adrianopolis_mapbiomas_2023.png:Crescimento da área urbanizada entre 1985 e 2023. Fonte: Elaborado pelos autores a partir dos dados do MAPBIOMAS, 2025>
 (usar foto aérea de 1980, imagens de satélite para complementar)
+<Gráfico:areaUrb_ha_mapbiomas_Adrianopolis_1985_2023.png:Crescimento da área urbanizada entre 1985 e 2023. Fonte: Elaborado pelos autores a partir dos dados do MAPBIOMAS, 2025>
