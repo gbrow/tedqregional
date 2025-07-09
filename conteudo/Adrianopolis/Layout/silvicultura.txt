@@ -1,0 +1,3 @@
+<Título:Silvicultura>
+<Escala:Adrianópolis>
+<Mapas:silvicultura_Adrianopolis_mapbiomas_2023.png:Avanço da silvidultura 1984-2023. Fonte: Elaborado pelos autores a partir dos dados do Mapbiomas, 2025>

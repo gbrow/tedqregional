@@ -1,0 +1,3 @@
+<Título:Silvicultura>
+<Escala:Palmas>
+<Mapas:silvicultura_Palmas_mapbiomas_2023.png:Avanço da silvicultura 1984-2023. Fonte: Elaborado pelos autores a partir dos dados do Mapbiomas, 2025>
